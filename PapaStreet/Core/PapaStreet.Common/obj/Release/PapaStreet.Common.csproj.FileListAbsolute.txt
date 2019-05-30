@@ -1,0 +1,8 @@
+D:\Project\PapaStreet\Core\PapaStreet.Common\bin\Release\PapaStreet.Common.dll
+D:\Project\PapaStreet\Core\PapaStreet.Common\bin\Release\PapaStreet.Common.pdb
+D:\Project\PapaStreet\Core\PapaStreet.Common\obj\Release\PapaStreet.Common.csprojAssemblyReference.cache
+D:\Project\PapaStreet\Core\PapaStreet.Common\obj\Release\PapaStreet.Common.Resources.UI.resources
+D:\Project\PapaStreet\Core\PapaStreet.Common\obj\Release\PapaStreet.Common.csproj.GenerateResource.cache
+D:\Project\PapaStreet\Core\PapaStreet.Common\obj\Release\PapaStreet.Common.csproj.CoreCompileInputs.cache
+D:\Project\PapaStreet\Core\PapaStreet.Common\obj\Release\PapaStreet.Common.dll
+D:\Project\PapaStreet\Core\PapaStreet.Common\obj\Release\PapaStreet.Common.pdb

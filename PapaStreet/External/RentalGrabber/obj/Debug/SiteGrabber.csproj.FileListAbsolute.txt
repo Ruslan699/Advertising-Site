@@ -1,0 +1,12 @@
+D:\Project\PapaStreet\External\RentalGrabber\bin\Debug\SiteGrabber.exe.config
+D:\Project\PapaStreet\External\RentalGrabber\bin\Debug\SiteGrabber.exe
+D:\Project\PapaStreet\External\RentalGrabber\bin\Debug\SiteGrabber.pdb
+D:\Project\PapaStreet\External\RentalGrabber\bin\Debug\AngleSharp.dll
+D:\Project\PapaStreet\External\RentalGrabber\bin\Debug\Newtonsoft.Json.dll
+D:\Project\PapaStreet\External\RentalGrabber\bin\Debug\AngleSharp.xml
+D:\Project\PapaStreet\External\RentalGrabber\bin\Debug\Newtonsoft.Json.xml
+D:\Project\PapaStreet\External\RentalGrabber\obj\Debug\SiteGrabber.csprojAssemblyReference.cache
+D:\Project\PapaStreet\External\RentalGrabber\obj\Debug\SiteGrabber.csproj.CoreCompileInputs.cache
+D:\Project\PapaStreet\External\RentalGrabber\obj\Debug\SiteGrabber.csproj.CopyComplete
+D:\Project\PapaStreet\External\RentalGrabber\obj\Debug\SiteGrabber.exe
+D:\Project\PapaStreet\External\RentalGrabber\obj\Debug\SiteGrabber.pdb
